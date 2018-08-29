@@ -1,0 +1,41 @@
+#event h1{
+	font-size: 70px;
+	padding-top: 25px;
+	font-family: calibri;
+	font-style: italic;
+	text-shadow: 0px 0px 10px;
+}
+#menu{
+	background: blue;
+	height: 100px;
+	box-shadow: 0px 0px 10px
+}
+#logo{
+	width: 200px;
+	height: 300px;
+	margin-top: -20px;
+}
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+    .row.content {height: 450px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+
+
+
+#navbar{
+	height: 25%;
+	background-color: yellow;
+	box-shadow: 0px 0px 10px #000;
+}
+
+
